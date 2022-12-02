@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GeannyR
 - 👀 I’m interested in learn about programming.
-- 🌱 I’m currently learning css, html and javascript.
+- 🌱 I’m currently learning css, html, javascript, and frameworks.
