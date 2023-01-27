@@ -1,8 +1,8 @@
-- 👋 Olá! Me chamo Geanny Rodrigues.
-- 👀 Sou estudante de ciência da computação.
+###- 👋 Olá! Me chamo Geanny Rodrigues.
+##- 👀 Sou estudante de ciência da computação.
 
 
-- Atualmente estou aprendendo:
+##- Atualmente estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
@@ -13,10 +13,3 @@
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
