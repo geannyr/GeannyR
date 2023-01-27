@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning css, html, javascript, and frameworks.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GeannyR)](https://github.com/anuraghazra/github-readme-stats)
+Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
 <a href = "mailto:geanny.arodrigues@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
