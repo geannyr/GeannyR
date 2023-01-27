@@ -2,8 +2,8 @@
 Sou estudante de ciência da computação.
 
 
-<b> Atualmente estou aprendendo: </b> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 <h4 align="left">Contato:</h4>
 <p align="left">
