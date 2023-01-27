@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @GeannyR
-- 👀 I’m interested in learn about programming.
-- 🌱 I’m currently learning css, html, javascript, and frameworks.
+- 👋 Olá! Me chamo Geanny Rodrigues.
+- 👀 Sou estudante de ciência da computação.
 
 
-Estou aprendendo
-
+- Atualmente estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
