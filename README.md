@@ -51,7 +51,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geanny-arodrigues/)](https://www.linkedin.com/in/geanny-arodrigues/)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geanny-arodrigues/)](https://www.linkedin.com/in/geanny-arodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:geanny.arodrigues@gmail.com)](mailto:geanny.arodrigues@gmail.com)
 [![GitHub GeannyR](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeannyR)
 [![Whatsapp]( https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581981493288)](https://api.whatsapp.com/send?phone=5581981493288)
