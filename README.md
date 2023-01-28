@@ -31,7 +31,7 @@
 <br/>
 
 <a href="https://github.com/geannyr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geannyrs&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geannyr&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
