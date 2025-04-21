@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Ciência da computação.
-- 💼 &nbsp; Atualmente estágiaria em desenvolvimento Java, aplicando conhecimento para solução de problemas reais.</a>
+- 💼 &nbsp; Atualmente júnior em desenvolvimento, aplicando conhecimento para solução de problemas reais.</a>
 - 🌱 &nbsp; Aprendendo mais sobre Go e Spring.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
