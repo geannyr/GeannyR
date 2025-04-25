@@ -45,7 +45,7 @@
   
   ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-**🛠️ Ambientes e Ferramentas de Desenvolvimento**
+**🛠️ Ferramentas de Desenvolvimento e Sistemas Operacionais **
 
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   
