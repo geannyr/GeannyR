@@ -6,7 +6,7 @@
 
 💼   Desenvolvedora júnior, focada em aplicar conhecimentos em projetos reais.
 
-🌱   Estudando [GO](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white) e aprofundando habilidades com [Spring Framework](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white).
+🌱   Estudando ![GO](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white) e aprofundando habilidades com ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white).
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
