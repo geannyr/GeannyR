@@ -25,7 +25,7 @@
   
 
 
-**⚙️ DevOps, Versionamento e Design **
+**⚙️ DevOps, Versionamento e Design**
 
   ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
